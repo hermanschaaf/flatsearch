@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Structure for Python Bottle web projects
+title: FlatSearch is closed
 ---
 
 ![FlatSearch SA](sa_map.png) FlatSearch is closed
